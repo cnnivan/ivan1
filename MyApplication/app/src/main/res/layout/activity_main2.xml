@@ -43,7 +43,8 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Aceptar" />
+        android:text="Aceptar"
+        android:onClick="Siguiente2"/>
 
     <Button
         android:id="@+id/button2"
